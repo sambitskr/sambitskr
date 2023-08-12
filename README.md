@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sambit Sarkar</h1>
-<h3 align="center">A passionate junior year student and a SDE aspirant from India.</h3>
+<h3 align="center">Just another tech nerd.</h3>
 
 - 🔭 I’m currently working on [Prescripto](https://github.com/sambitskr/Prescripto.git)
 
