@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sambit Sarkar</h1>
-<h3 align="center">Just another tech nerd.</h3>
+<h1 align="center">Hi, I'm Sambit Sarkar 👋</h1>
+<h3 align="center">An intermediate Flutter Developer.</h3>
 
 - 🔭 I’m currently working on [Prescripto](https://github.com/sambitskr/Prescripto.git)
 
-- 🌱 I’m currently learning **node.js and Flutter**
+- 🌱 I’m currently learning **Machine Learning and Flutter**
 
 - 📫 How to reach me **skrsambit@gmail.com**
 
