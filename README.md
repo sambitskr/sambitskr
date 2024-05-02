@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sambit Sarkar</h1>
+<h1 align="center">Hi, I'm Sambit Sarkar 👋</h1>
 <h3 align="center">A passionate junior year student and a SDE aspirant from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambitskr&label=Profile%20views&color=0e75b6&style=flat" alt="sambitskr" /> </p>
