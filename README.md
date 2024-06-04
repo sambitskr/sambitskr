@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sambit Sarkar 👋</h1>
 
-<img src="https://github.com/sambitskr/sambitskr/assets/87202351/f95c6d53-33dc-4cfe-a492-47de5ed7385f" style="width: 400px; height: 200px;" alt="aaron-j-charlie-background-gif">
+<img src="https://github.com/sambitskr/sambitskr/assets/87202351/f95c6d53-33dc-4cfe-a492-47de5ed7385f" style="width: 400px; height: 400px;" alt="aaron-j-charlie-background-gif">
 
 <h3 align="center">A passionate junior year student and a SDE aspirant from India.</h3>
 
