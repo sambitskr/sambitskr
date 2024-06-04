@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Sambit Sarkar 👋</h1>
 <h3 align="center">A passionate junior year student and a SDE aspirant from India.</h3>
 
+![aaron-j-charlie-background-gif](https://github.com/sambitskr/sambitskr/assets/87202351/f95c6d53-33dc-4cfe-a492-47de5ed7385f)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambitskr&label=Profile%20views&color=0e75b6&style=flat" alt="sambitskr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/skrsambit" target="blank"><img src="https://img.shields.io/twitter/follow/skrsambit?logo=twitter&style=for-the-badge" alt="skrsambit" /></a> </p>
