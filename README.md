@@ -4,7 +4,7 @@
  <img src="https://github.com/sambitskr/sambitskr/assets/87202351/f95c6d53-33dc-4cfe-a492-47de5ed7385f" style="width: 700px; " alt="aaron-j-charlie-background-gif">
 </p>
 
-<h3 align="center">A passionate junior year student and a SDE aspirant from India.</h3>
+<h3 align="center">A passionate final year student and a SDE aspirant from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambitskr&label=Profile%20views&color=0e75b6&style=flat" alt="sambitskr" /> </p>
 
