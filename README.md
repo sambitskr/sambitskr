@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Prescripto](https://github.com/sambitskr/Prescripto.git)
 
-- 🌱 I’m currently learning **node.js and Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **skrsambit@gmail.com**
 
